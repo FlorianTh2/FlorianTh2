@@ -1,0 +1,20 @@
+Zusammenfassung
+name: florian thom
+herkunft: ich komme von der hochschule für technik und wirtschaft Berlin
+abschlussarbeit: Bereich der Informatik (strategisch Produktentwicklung: Entwicklung plattformbasierter Geschäftsmodelle)abgeschlossen
+Erfahrung:
+	-Praktika
+	-studentische Hilfskraft
+	-studentischen Nebenjobs
+Hauptfokus Vergangenheit:
+	-Big Data
+	-Datenverarbeitung (aufbereitung,analyse)
+	-ki
+	-schnittstellen: Konzeption+Entwicklung
+	-devops
+Hauptfokus jetzt:
+	-schnittstellen: Konzeption+Entwicklung
+	-devops
+	-kurz: Entwickler
+Interesse kontext bahn:
+	-ich sehe besonders hier die chance auf breite mobilität in der zukunft sehe (Personen+Güter)
