@@ -1,7 +1,7 @@
 Zusammenfassung
 name: florian thom
 herkunft: ich komme von der hochschule für technik und wirtschaft Berlin
-abschlussarbeit: Bereich der Informatik (strategisch Produktentwicklung: Entwicklung plattformbasierter Geschäftsmodelle)abgeschlossen
+abschlussarbeit: In Bereich der Informatik (strategisch Produktentwicklung: Diskursive Entwicklung plattformbasierter Geschäftsmodelle (nicht aus dem bauch heraus, methodisch exakt)) abgeschlossen
 Erfahrung:
 	-Praktika
 	-studentische Hilfskraft
