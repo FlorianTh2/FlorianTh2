@@ -16,5 +16,6 @@ Hauptfokus jetzt:
 	-schnittstellen: Konzeption+Entwicklung
 	-devops
 	-kurz: Entwickler
+position: entwickler: spring starter
 Interesse kontext bahn:
 	-ich sehe besonders hier die chance auf breite mobilität in der zukunft sehe (Personen+Güter)
