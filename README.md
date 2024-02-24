@@ -5,4 +5,4 @@
 [![](https://img.shields.io/badge/-florianthom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.florianthom.com/linkedin)](https://www.florianthom.com/linkedin)
 
 I'm creating solutions in IT & Media - From cloud integrations over web applications to media content.\
-If you're interested make sure you check it out.
+If you're interested make sure to check out my website.
